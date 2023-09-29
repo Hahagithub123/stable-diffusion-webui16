@@ -196,7 +196,7 @@
     "img2img/Prompt/visible": true,
     "img2img/Prompt/value": "",
     "img2img/Negative prompt/visible": true,
-    "img2img/Negative prompt/value": "",
+    "img2img/Negative prompt/value": "change to another face,strabismus,cross-eyes,worst quality,low quality,normal quality:,bad hands,missing arms,extra arms,fused fingers,too many fingers:,greyscale,monochrome:,noise,missing legs,extra legs:,Strange foot shape,Strange hand shape,Strange leg shape,Strange arm shape,depth of field,blurry:,non-korean face,small_medium_breasts,small breast,EasyNegative,ugly,blurry,squinting,grain,Deformed,bad anatomy,poorly drawn face,mutation,mutated,extra limb,poorly drawn hands,bad nails,fewer fingers,strange finger shape,strange body refraction,low quality face degradation,low quality eye degradation,severed hands,severed legs,,severed arms,severed fingers,fused fingers,too many fingers,missing fingers,cartoon,painting,illustration,3D face,low resolution,merged bodyparts",
     "img2img/Interrogate\nCLIP/visible": true,
     "img2img/Interrogate\nDeepBooru/visible": true,
     "img2img/Interrupt/visible": true,
